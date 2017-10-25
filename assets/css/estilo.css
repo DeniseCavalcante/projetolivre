@@ -1,0 +1,126 @@
+.navbar-inverse{
+    background:#ff3399;
+    /*background: linear-gradient(to right, darkorange 0%, deeppink 100%);*/
+ 
+}
+
+
+.navbar-inverse .navbar-nav > li > a {
+color:black;
+padding-left: 30px;
+font-size: 20px
+}
+
+.logo{
+    width:20%;
+ 
+}
+
+.apresentacao{
+    padding-top: 80px;
+    
+}
+
+.botao{
+    
+        color: white;
+        border-radius: 5px;
+    
+}
+
+.imglogo{
+     width:100%;
+      /*padding-top: 30px;
+    */
+}
+
+.apresentacao{
+height:50vh; 
+background-image: url("mocacamera5.jpg");
+background-attachment: fixed;
+background-size:100%;
+background-repeat: no-repeat;
+padding-top: 300px;
+color: white;
+text-align: center;
+font-size: 30px;
+margin: 0;
+
+}
+
+#missao{
+    text-align: center;
+    height:30vh;
+    color: #b30077;
+}
+
+.caixa{
+    text-align: center;
+    background-color: hotpink;
+    background: linear-gradient(to right, #ff8c00 0%,   #e67e00 100%);
+    padding: 50px;
+    color: #b30077;
+}
+
+
+.container{
+    margin: 0 auto;
+}
+
+#cadastro{
+    text-align: center;
+    color: yellow;
+    background: #b30077;
+     background: linear-gradient(to right, darkorange 0%, deeppink 100%);
+    height: 30vh;
+    padding: 20px;
+    margin-top: 2px;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.botaocadastro{
+    background:black;
+}
+
+a{
+    color:purple;
+    text-decoration: none;
+}
+
+
+#parceiros{
+    text-align: center;
+    color: #b30077;
+    background: #bfbfbf;
+    height: 30vh;
+    padding: 20px;
+  
+}
+
+.rodape{
+   text-align: center;
+    color: white;
+    background:black;
+    padding: 20px;
+
+}
+
+.row{
+
+}
+
+.nav{
+    flex: 
+}
+
+.barra{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+
+
